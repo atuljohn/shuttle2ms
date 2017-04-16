@@ -1,0 +1,10 @@
+{
+  "speakers": [{
+    "title" : "CTO",
+    "name": "Atul John",
+    "shortname" : "Atul_John",
+    "summary" : "MS in Computer Engineering and Teaching Assistant at University of Central Florida",
+    "description": "<p>Atul is passionate about using technology to solve social problems. This is his first venture to utilize the web to solve problems faced in the first few after students land in the US</p>",
+    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
+  }]
+}
